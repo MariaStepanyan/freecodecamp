@@ -1,0 +1,4 @@
+array.push()
+array.shift()
+array.pop()
+array.unshift()
